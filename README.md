@@ -38,10 +38,3 @@ Aquí puedes ver algunos de los retos de ingeniería de software que he superado
 *   **`libft` & `get_next_line`** 📚: Reimplementación de funciones de la librería estándar de C y creación de un lector de archivos optimizado línea a línea gestionando dinámicamente la memoria (`malloc`/`free`).
 
 ---
-
-### 📊 Mis Estadísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinius11&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinius11&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
-</p>
